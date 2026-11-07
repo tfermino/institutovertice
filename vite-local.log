@@ -1,0 +1,63 @@
+
+> instituto-vertice-portal@1.0.0 dev
+> vite --host 127.0.0.1 --port 5174
+
+
+  VITE v5.4.21  ready in 600 ms
+
+  ➜  Local:   http://127.0.0.1:5174/
+14:02:36 [vite] page reload qa-harness.html
+14:02:36 [vite] page reload qa-harness.html
+14:03:01 [vite] page reload qa-harness.html
+14:03:37 [vite] page reload qa-harness.html
+14:04:39 [vite] page reload qa-harness.html
+14:05:04 [vite] page reload qa-harness.html
+14:05:37 [vite] page reload qa-harness.html
+14:06:31 [vite] hmr update /src/index.css, /src/contexts/AuthContext.tsx, /src/pages/PortalPages.tsx, /src/components/Header.tsx, /src/components/Brand.tsx
+14:06:32 [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+14:06:32 [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/AuthPages.tsx, /src/components/Header.tsx
+14:06:32 [vite] hmr update /src/pages/PortalPages.tsx, /src/index.css
+14:06:33 [vite] hmr invalidate /src/pages/PortalPages.tsx Could not Fast Refresh (new export)
+14:06:33 [vite] hmr update /src/App.tsx, /src/index.css
+14:06:52 [vite] hmr update /src/App.tsx, /src/index.css
+14:06:56 [vite] hmr update /src/index.css
+14:07:29 [vite] page reload qa-harness.html
+14:07:47 [vite] page reload qa-harness.html
+14:08:30 [vite] page reload qa-harness.html
+14:08:51 [vite] page reload qa-harness.html
+14:09:34 [vite] page reload qa-harness.html
+14:10:46 [vite] hmr update /src/contexts/AuthContext.tsx, /src/index.css
+14:10:46 [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh (export removed)
+14:10:46 [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/AuthPages.tsx, /src/components/Header.tsx
+14:10:47 [vite] hmr update /src/components/Header.tsx, /src/index.css
+14:10:48 [vite] hmr update /src/components/ProtectedRoute.tsx, /src/index.css
+14:10:49 [vite] hmr update /src/pages/AuthPages.tsx, /src/index.css
+14:10:50 [vite] page reload src/main.tsx
+14:10:51 [vite] page reload src/styles/index.css
+14:10:51 [vite] hmr update /src/index.css
+14:11:28 [vite] hmr update /src/contexts/AuthContext.tsx, /src/styles/index.css
+14:11:28 [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("AuthContext" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+14:11:28 [vite] hmr update /src/App.tsx, /src/styles/index.css, /src/components/Header.tsx, /src/components/ProtectedRoute.tsx, /src/pages/AuthPages.tsx
+14:12:37 [vite] page reload qa-harness.html
+14:13:31 [vite] hmr update /src/styles/index.css
+14:14:21 [vite] page reload qa-harness.html
+14:15:01 [vite] page reload qa-harness.html
+14:15:21 [vite] page reload qa-harness.html
+14:15:25 [vite] page reload qa-harness.html
+14:23:06 [vite] hmr update /src/App.tsx, /src/styles/index.css
+14:23:29 [vite] hmr update /src/components/Header.tsx, /src/styles/index.css
+14:23:30 [vite] hmr update /src/pages/AuthPages.tsx, /src/styles/index.css
+14:24:35 [vite] hmr update /src/styles/index.css
+14:25:13 [vite] hmr update /src/styles/index.css
+14:26:13 [vite] page reload qa-theme-harness.html
+14:27:13 [vite] page reload src/main.tsx
+14:27:16 [vite] page reload qa-theme-harness.html
+14:28:01 [vite] page reload qa-theme-harness.html
+14:29:06 [vite] page reload qa-theme-harness.html
+14:35:26 [vite] hmr update /src/components/Brand.tsx, /src/styles/index.css
+14:35:32 [vite] hmr update /src/styles/index.css
+14:38:47 [vite] hmr update /src/styles/index.css
+14:43:26 [vite] hmr update /src/styles/index.css
+14:44:06 [vite] page reload qa-dark-dashboard.html
+14:44:26 [vite] page reload qa-dark-dashboard.html
+14:46:54 [vite] hmr update /src/styles/index.css
